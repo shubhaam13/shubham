@@ -2,7 +2,7 @@
 
 [![Twitter Badge](https://img.shields.io/badge/-@SilMayukh-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Shubhaam13)](https://twitter.com/Shubhaam13) [![Linkedin Badge](https://img.shields.io/badge/-shubhaam13-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shubhaam13/)](https://www.linkedin.com/in/shubhaam13/)
 [![Gmail Badge](https://img.shields.io/badge/-mayukhsil@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:imsky004@gmail.com)](mailto:imsky004@gmail.com) 
-<img align="right" alt="PC GIF" src="https://github.com/shubhaam13/shubham/blob/main/Assets/1_IRGHmiGsa16stedQvIaZfw.gif" width="250" />
+<img align="right" alt="PC GIF" src="https://github.com/shubhaam13/shubham/blob/main/Assets/1_IRGHmiGsa16stedQvIaZfw.gif" width="450" />
 
 ### <img src="https://github.com/shubhaam13/shubham/blob/main/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/shubhaam13/shubham/blob/main/Assets/Earth.gif" width="24px">
 
