@@ -1,4 +1,4 @@
-# Shubham Kumar&nbsp;<img src="https://github.com/shubhaam13/shubham/blob/main/Assets/Developer.gif" width="80px">
+# SHUBHAM KUMAR&nbsp;<img src="https://github.com/shubhaam13/shubham/blob/main/Assets/Developer.gif" width="80px">
 
 [![Twitter Badge](https://img.shields.io/badge/-@Shubhaam13-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Shubhaam13)](https://twitter.com/Shubhaam13) [![Linkedin Badge](https://img.shields.io/badge/-shubhaam13-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shubhaam13/)](https://www.linkedin.com/in/shubhaam13/)
 [![Gmail Badge](https://img.shields.io/badge/-imsky004@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:imsky004@gmail.com)](mailto:imsky004@gmail.com) 
