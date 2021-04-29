@@ -37,7 +37,7 @@
       </td>
       <td width="25%" align="center">
         <span>Html</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/html.svg">
+        <img height="64px" src="https://github.com/shubhaam13/shubhaam13/blob/master/Assets/html.jpg">
       </td>
     </tr>
     <tr valign="top">
