@@ -36,7 +36,7 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
       <td width="25%" align="center">
-        <span>Html</span><br><br><br>
+        <span>Html</span><br><br><br><br>
         <img height="64px" src="https://github.com/shubhaam13/shubhaam13/blob/master/Assets/html.jpg">
       </td>
     </tr>
