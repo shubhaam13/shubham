@@ -10,6 +10,7 @@
   <em>
     I am a 3rd Year undergraduate from <a href="https://www.svcengg.com/"> <b>Sri Venkateshwara College of Engineering</b>, Bangalore</a>.
   </em>  
+  Python Developer | Flutter Developer | Web Developer | UI/UX Designer | Cloud & AI Enthusiast | Salesforce Experience
 </p>
 
 
