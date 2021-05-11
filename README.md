@@ -21,9 +21,9 @@
 
 ## GitHub Status
 
-![Mayukh's github stats](https://github-readme-stats.vercel.app/api?username=shubhaam13&show_icons=true&hide_border=true&theme=onedark)
+![shubham's github stats](https://github-readme-stats.vercel.app/api?username=shubhaam13&show_icons=true&hide_border=true&theme=onedark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayukhsil&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhaam13&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
